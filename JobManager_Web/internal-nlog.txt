@@ -1,0 +1,171 @@
+2018-05-10 20:02:19.1421 Error Error when sending. Exception: System.IO.IOException: Error: TimedOut
+2018-05-10 20:02:19.2016 Error Error when sending. Exception: System.IO.IOException: Error: TimedOut
+2018-05-10 20:04:04.7026 Error Failed write to file 'E:\BiHuProjects\JobManagerByQuartz_.NetCore_1.0\JobManagerByQuartz\JobManager_Web\bin\Debug\netcoreapp2.0\../E:\BiHuProjects\JobManagerByQuartz_.NetCore_1.0\JobManagerByQuartz\JobManager_Web\bin\Debug\netcoreapp2.0\/logs/2018-05-10/nlog-all/2018-05-10.log'. Exception: System.NotSupportedException: The given path's format is not supported.
+   at System.IO.Path.GetFullPath(String path)
+   at System.IO.FileInfo.Init(String fileName)
+   at System.IO.FileInfo..ctor(String fileName)
+   at NLog.Internal.FileAppenders.BaseFileAppender.UpdateCreationTime()
+   at NLog.Internal.FileAppenders.BaseFileAppender.TryCreateFileStream(Boolean allowFileSharedWriting)
+   at NLog.Internal.FileAppenders.BaseFileAppender.CreateFileStream(Boolean allowFileSharedWriting)
+   at NLog.Internal.FileAppenders.RetryingMultiProcessFileAppender.Write(Byte[] bytes, Int32 offset, Int32 count)
+   at NLog.Targets.FileTarget.WriteToFile(String fileName, ArraySegment`1 bytes, Boolean initializedNewFile)
+2018-05-10 20:04:07.1636 Error Failed write to file 'E:\BiHuProjects\JobManagerByQuartz_.NetCore_1.0\JobManagerByQuartz\JobManager_Web\bin\Debug\netcoreapp2.0\../E:\BiHuProjects\JobManagerByQuartz_.NetCore_1.0\JobManagerByQuartz\JobManager_Web\bin\Debug\netcoreapp2.0\/logs/2018-05-10/nlog-all/2018-05-10.log'. Exception: System.NotSupportedException: The given path's format is not supported.
+   at System.IO.Path.GetFullPath(String path)
+   at System.IO.FileInfo.Init(String fileName)
+   at System.IO.FileInfo..ctor(String fileName)
+   at NLog.Internal.FileAppenders.BaseFileAppender.UpdateCreationTime()
+   at NLog.Internal.FileAppenders.BaseFileAppender.TryCreateFileStream(Boolean allowFileSharedWriting)
+   at NLog.Internal.FileAppenders.BaseFileAppender.CreateFileStream(Boolean allowFileSharedWriting)
+   at NLog.Internal.FileAppenders.RetryingMultiProcessFileAppender.Write(Byte[] bytes, Int32 offset, Int32 count)
+   at NLog.Targets.FileTarget.WriteToFile(String fileName, ArraySegment`1 bytes, Boolean initializedNewFile)
+2018-05-10 20:04:07.7685 Error Failed write to file 'E:\BiHuProjects\JobManagerByQuartz_.NetCore_1.0\JobManagerByQuartz\JobManager_Web\bin\Debug\netcoreapp2.0\../E:\BiHuProjects\JobManagerByQuartz_.NetCore_1.0\JobManagerByQuartz\JobManager_Web\bin\Debug\netcoreapp2.0\/logs/2018-05-10/nlog-all/2018-05-10.log'. Exception: System.NotSupportedException: The given path's format is not supported.
+   at System.IO.Path.GetFullPath(String path)
+   at System.IO.FileInfo.Init(String fileName)
+   at System.IO.FileInfo..ctor(String fileName)
+   at NLog.Internal.FileAppenders.BaseFileAppender.UpdateCreationTime()
+   at NLog.Internal.FileAppenders.BaseFileAppender.TryCreateFileStream(Boolean allowFileSharedWriting)
+   at NLog.Internal.FileAppenders.BaseFileAppender.CreateFileStream(Boolean allowFileSharedWriting)
+   at NLog.Internal.FileAppenders.RetryingMultiProcessFileAppender.Write(Byte[] bytes, Int32 offset, Int32 count)
+   at NLog.Targets.FileTarget.WriteToFile(String fileName, ArraySegment`1 bytes, Boolean initializedNewFile)
+2018-05-10 20:04:07.7685 Error Failed write to file 'E:\BiHuProjects\JobManagerByQuartz_.NetCore_1.0\JobManagerByQuartz\JobManager_Web\bin\Debug\netcoreapp2.0\../E:\BiHuProjects\JobManagerByQuartz_.NetCore_1.0\JobManagerByQuartz\JobManager_Web\bin\Debug\netcoreapp2.0\/logs/2018-05-10/nlog-Info/2018-05-10.log'. Exception: System.NotSupportedException: The given path's format is not supported.
+   at System.IO.Path.GetFullPath(String path)
+   at System.IO.FileInfo.Init(String fileName)
+   at System.IO.FileInfo..ctor(String fileName)
+   at NLog.Internal.FileAppenders.BaseFileAppender.UpdateCreationTime()
+   at NLog.Internal.FileAppenders.BaseFileAppender.TryCreateFileStream(Boolean allowFileSharedWriting)
+   at NLog.Internal.FileAppenders.BaseFileAppender.CreateFileStream(Boolean allowFileSharedWriting)
+   at NLog.Internal.FileAppenders.RetryingMultiProcessFileAppender.Write(Byte[] bytes, Int32 offset, Int32 count)
+   at NLog.Targets.FileTarget.WriteToFile(String fileName, ArraySegment`1 bytes, Boolean initializedNewFile)
+2018-05-10 20:04:09.9935 Error Failed write to file 'E:\BiHuProjects\JobManagerByQuartz_.NetCore_1.0\JobManagerByQuartz\JobManager_Web\bin\Debug\netcoreapp2.0\../E:\BiHuProjects\JobManagerByQuartz_.NetCore_1.0\JobManagerByQuartz\JobManager_Web\bin\Debug\netcoreapp2.0\/logs/2018-05-10/nlog-Warn/2018-05-10.log'. Exception: System.NotSupportedException: The given path's format is not supported.
+   at System.IO.Path.GetFullPath(String path)
+   at System.IO.FileInfo.Init(String fileName)
+   at System.IO.FileInfo..ctor(String fileName)
+   at NLog.Internal.FileAppenders.BaseFileAppender.UpdateCreationTime()
+   at NLog.Internal.FileAppenders.BaseFileAppender.TryCreateFileStream(Boolean allowFileSharedWriting)
+   at NLog.Internal.FileAppenders.BaseFileAppender.CreateFileStream(Boolean allowFileSharedWriting)
+   at NLog.Internal.FileAppenders.RetryingMultiProcessFileAppender.Write(Byte[] bytes, Int32 offset, Int32 count)
+   at NLog.Targets.FileTarget.WriteToFile(String fileName, ArraySegment`1 bytes, Boolean initializedNewFile)
+2018-05-10 20:04:09.9935 Error Failed write to file 'E:\BiHuProjects\JobManagerByQuartz_.NetCore_1.0\JobManagerByQuartz\JobManager_Web\bin\Debug\netcoreapp2.0\../E:\BiHuProjects\JobManagerByQuartz_.NetCore_1.0\JobManagerByQuartz\JobManager_Web\bin\Debug\netcoreapp2.0\/logs/2018-05-10/nlog-all/2018-05-10.log'. Exception: System.NotSupportedException: The given path's format is not supported.
+   at System.IO.Path.GetFullPath(String path)
+   at System.IO.FileInfo.Init(String fileName)
+   at System.IO.FileInfo..ctor(String fileName)
+   at NLog.Internal.FileAppenders.BaseFileAppender.UpdateCreationTime()
+   at NLog.Internal.FileAppenders.BaseFileAppender.TryCreateFileStream(Boolean allowFileSharedWriting)
+   at NLog.Internal.FileAppenders.BaseFileAppender.CreateFileStream(Boolean allowFileSharedWriting)
+   at NLog.Internal.FileAppenders.RetryingMultiProcessFileAppender.Write(Byte[] bytes, Int32 offset, Int32 count)
+   at NLog.Targets.FileTarget.WriteToFile(String fileName, ArraySegment`1 bytes, Boolean initializedNewFile)
+2018-05-10 20:04:10.0768 Error Failed write to file 'E:\BiHuProjects\JobManagerByQuartz_.NetCore_1.0\JobManagerByQuartz\JobManager_Web\bin\Debug\netcoreapp2.0\../E:\BiHuProjects\JobManagerByQuartz_.NetCore_1.0\JobManagerByQuartz\JobManager_Web\bin\Debug\netcoreapp2.0\/logs/2018-05-10/nlog-all/2018-05-10.log'. Exception: System.NotSupportedException: The given path's format is not supported.
+   at System.IO.Path.GetFullPath(String path)
+   at System.IO.FileInfo.Init(String fileName)
+   at System.IO.FileInfo..ctor(String fileName)
+   at NLog.Internal.FileAppenders.BaseFileAppender.UpdateCreationTime()
+   at NLog.Internal.FileAppenders.BaseFileAppender.TryCreateFileStream(Boolean allowFileSharedWriting)
+   at NLog.Internal.FileAppenders.BaseFileAppender.CreateFileStream(Boolean allowFileSharedWriting)
+   at NLog.Internal.FileAppenders.RetryingMultiProcessFileAppender.Write(Byte[] bytes, Int32 offset, Int32 count)
+   at NLog.Targets.FileTarget.WriteToFile(String fileName, ArraySegment`1 bytes, Boolean initializedNewFile)
+2018-05-10 20:04:11.4209 Error Failed write to file 'E:\BiHuProjects\JobManagerByQuartz_.NetCore_1.0\JobManagerByQuartz\JobManager_Web\bin\Debug\netcoreapp2.0\../E:\BiHuProjects\JobManagerByQuartz_.NetCore_1.0\JobManagerByQuartz\JobManager_Web\bin\Debug\netcoreapp2.0\/logs/2018-05-10/nlog-all/2018-05-10.log'. Exception: System.NotSupportedException: The given path's format is not supported.
+   at System.IO.Path.GetFullPath(String path)
+   at System.IO.FileInfo.Init(String fileName)
+   at System.IO.FileInfo..ctor(String fileName)
+   at NLog.Internal.FileAppenders.BaseFileAppender.UpdateCreationTime()
+   at NLog.Internal.FileAppenders.BaseFileAppender.TryCreateFileStream(Boolean allowFileSharedWriting)
+   at NLog.Internal.FileAppenders.BaseFileAppender.CreateFileStream(Boolean allowFileSharedWriting)
+   at NLog.Internal.FileAppenders.RetryingMultiProcessFileAppender.Write(Byte[] bytes, Int32 offset, Int32 count)
+   at NLog.Targets.FileTarget.WriteToFile(String fileName, ArraySegment`1 bytes, Boolean initializedNewFile)
+2018-05-10 20:04:11.7387 Error Failed write to file 'E:\BiHuProjects\JobManagerByQuartz_.NetCore_1.0\JobManagerByQuartz\JobManager_Web\bin\Debug\netcoreapp2.0\../E:\BiHuProjects\JobManagerByQuartz_.NetCore_1.0\JobManagerByQuartz\JobManager_Web\bin\Debug\netcoreapp2.0\/logs/2018-05-10/nlog-all/2018-05-10.log'. Exception: System.NotSupportedException: The given path's format is not supported.
+   at System.IO.Path.GetFullPath(String path)
+   at System.IO.FileInfo.Init(String fileName)
+   at System.IO.FileInfo..ctor(String fileName)
+   at NLog.Internal.FileAppenders.BaseFileAppender.UpdateCreationTime()
+   at NLog.Internal.FileAppenders.BaseFileAppender.TryCreateFileStream(Boolean allowFileSharedWriting)
+   at NLog.Internal.FileAppenders.BaseFileAppender.CreateFileStream(Boolean allowFileSharedWriting)
+   at NLog.Internal.FileAppenders.RetryingMultiProcessFileAppender.Write(Byte[] bytes, Int32 offset, Int32 count)
+   at NLog.Targets.FileTarget.WriteToFile(String fileName, ArraySegment`1 bytes, Boolean initializedNewFile)
+2018-05-10 20:04:28.8175 Error Error when sending. Exception: System.IO.IOException: Error: TimedOut
+2018-05-10 20:04:29.9902 Error Error when sending. Exception: System.IO.IOException: Error: TimedOut
+2018-05-14 10:51:15.8961 Error Error when sending. Exception: System.IO.IOException: Error: TimedOut
+2018-05-14 10:51:15.8961 Error Error when sending. Exception: System.IO.IOException: Error: TimedOut
+2018-05-14 10:57:19.2942 Error Error when sending. Exception: System.IO.IOException: Error: TimedOut
+2018-05-14 10:57:19.2942 Error Error when sending. Exception: System.IO.IOException: Error: TimedOut
+2018-05-17 12:02:47.6307 Error Error when sending. Exception: System.IO.IOException: Error: ConnectionRefused
+2018-05-17 12:03:02.4034 Error Error when sending. Exception: System.IO.IOException: Error: TimedOut
+2018-05-17 12:03:02.4119 Error Error when sending. Exception: System.IO.IOException: Error: TimedOut
+2018-05-17 12:03:02.4119 Error Error when sending. Exception: System.IO.IOException: Error: TimedOut
+2018-05-17 12:04:10.8046 Error Error when sending. Exception: System.IO.IOException: Error: ConnectionRefused
+2018-05-17 12:04:10.8046 Error Error when sending. Exception: System.IO.IOException: Error: ConnectionRefused
+2018-05-17 12:04:11.0382 Error Error when sending. Exception: System.IO.IOException: Error: ConnectionRefused
+2018-05-17 12:04:11.0382 Error Error when sending. Exception: System.IO.IOException: Error: ConnectionRefused
+2018-05-17 15:57:18.3592 Warn Unknown exception data target: innerExceptionSeparator=
+
+2018-05-17 19:59:33.4230 Error Error when sending. Exception: System.IO.IOException: Error: ConnectionRefused
+2018-05-17 19:59:33.4230 Error Error when sending. Exception: System.IO.IOException: Error: ConnectionRefused
+2018-05-17 19:59:33.4230 Error Error when sending. Exception: System.IO.IOException: Error: ConnectionRefused
+2018-05-17 20:01:24.7990 Error Error when sending. Exception: System.IO.IOException: Error: ConnectionRefused
+2018-05-17 20:01:26.0643 Error Error when sending. Exception: System.IO.IOException: Error: ConnectionRefused
+2018-05-17 20:01:26.1842 Error Error when sending. Exception: System.IO.IOException: Error: ConnectionRefused
+2018-05-18 17:01:24.9808 Error Error when sending. Exception: System.IO.IOException: Error: ConnectionRefused
+2018-05-18 17:34:59.8257 Error Error when sending. Exception: System.IO.IOException: Error: ConnectionRefused
+2018-05-18 17:39:46.3151 Error Error when sending. Exception: System.IO.IOException: Error: ConnectionRefused
+2018-05-18 18:02:03.9558 Error Error parsing layout requestmethodtype will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'requestmethodtype'
+   at NLog.Config.Factory`2.CreateInstance(String name)
+   at NLog.Layouts.LayoutParser.GetLayoutRenderer(ConfigurationItemFactory configurationItemFactory, String name)
+2018-05-18 18:02:13.8313 Error Error when sending. Exception: System.IO.IOException: Error: ConnectionRefused
+2018-05-18 18:06:05.2492 Warn Exception in layout renderer. Exception: System.NullReferenceException: Object reference not set to an instance of an object.
+   at NLogLayoutRendererExtension.UniqueidLayoutRenderer.Append(StringBuilder builder, LogEventInfo logEvent) in E:\BiHuProjects\JobManagerByQuartz_.NetCore_1.0\JobManagerByQuartz\NLogLayoutRendererExtension\UniqueidLayoutRenderer.cs:line 14
+   at NLog.LayoutRenderers.LayoutRenderer.RenderAppendBuilder(LogEventInfo logEvent, StringBuilder builder)
+2018-05-18 18:06:06.5239 Warn Exception in layout renderer. Exception: System.NullReferenceException: Object reference not set to an instance of an object.
+   at NLogLayoutRendererExtension.RequestMethodTypeLayoutRenderer.Append(StringBuilder builder, LogEventInfo logEvent) in E:\BiHuProjects\JobManagerByQuartz_.NetCore_1.0\JobManagerByQuartz\NLogLayoutRendererExtension\RequestMethodTypeLayoutRenderer.cs:line 14
+   at NLog.LayoutRenderers.LayoutRenderer.RenderAppendBuilder(LogEventInfo logEvent, StringBuilder builder)
+2018-05-18 18:06:07.3000 Warn Exception in layout renderer. Exception: System.NullReferenceException: Object reference not set to an instance of an object.
+   at NLogLayoutRendererExtension.CallParametersLayoutRenderer.Append(StringBuilder builder, LogEventInfo logEvent) in E:\BiHuProjects\JobManagerByQuartz_.NetCore_1.0\JobManagerByQuartz\NLogLayoutRendererExtension\CallParametersLayoutRenderer.cs:line 14
+   at NLog.LayoutRenderers.LayoutRenderer.RenderAppendBuilder(LogEventInfo logEvent, StringBuilder builder)
+2018-05-18 18:06:08.1148 Warn Exception in layout renderer. Exception: System.NullReferenceException: Object reference not set to an instance of an object.
+   at NLogLayoutRendererExtension.CallReusltLayoutRenderer.Append(StringBuilder builder, LogEventInfo logEvent) in E:\BiHuProjects\JobManagerByQuartz_.NetCore_1.0\JobManagerByQuartz\NLogLayoutRendererExtension\CallReusltLayoutRenderer.cs:line 14
+   at NLog.LayoutRenderers.LayoutRenderer.RenderAppendBuilder(LogEventInfo logEvent, StringBuilder builder)
+2018-05-18 18:06:09.0843 Warn Exception in layout renderer. Exception: System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at NLogLayoutRendererExtension.UniqueidLayoutRenderer.Append(StringBuilder builder, LogEventInfo logEvent) in E:\BiHuProjects\JobManagerByQuartz_.NetCore_1.0\JobManagerByQuartz\NLogLayoutRendererExtension\UniqueidLayoutRenderer.cs:line 14
+   at NLog.LayoutRenderers.LayoutRenderer.RenderAppendBuilder(LogEventInfo logEvent, StringBuilder builder)
+2018-05-18 18:06:10.5441 Warn Exception in layout renderer. Exception: System.NullReferenceException: Object reference not set to an instance of an object.
+   at NLogLayoutRendererExtension.CallReusltLayoutRenderer.Append(StringBuilder builder, LogEventInfo logEvent) in E:\BiHuProjects\JobManagerByQuartz_.NetCore_1.0\JobManagerByQuartz\NLogLayoutRendererExtension\CallReusltLayoutRenderer.cs:line 14
+   at NLog.LayoutRenderers.LayoutRenderer.RenderAppendBuilder(LogEventInfo logEvent, StringBuilder builder)
+2018-05-18 18:06:16.1579 Error Error when sending. Exception: System.IO.IOException: Error: ConnectionRefused
+2018-05-18 19:11:15.8384 Warn Exception in layout renderer. Exception: System.NullReferenceException: Object reference not set to an instance of an object.
+   at NLogLayoutRendererExtension.UniqueidLayoutRenderer.Append(StringBuilder builder, LogEventInfo logEvent) in E:\BiHuProjects\JobManagerByQuartz_.NetCore_1.0\JobManagerByQuartz\NLogLayoutRendererExtension\UniqueidLayoutRenderer.cs:line 14
+   at NLog.LayoutRenderers.LayoutRenderer.RenderAppendBuilder(LogEventInfo logEvent, StringBuilder builder)
+2018-05-18 19:13:27.9696 Error Parsing configuration from E:\BiHuProjects\JobManagerByQuartz_.NetCore_1.0\JobManagerByQuartz\JobManager_Web\NLog.config failed. Exception: NLog.NLogConfigurationException: Exception when parsing E:\BiHuProjects\JobManagerByQuartz_.NetCore_1.0\JobManagerByQuartz\JobManager_Web\NLog.config.  ---> NLog.NLogConfigurationException: Target allfile not found.
+   at NLog.Config.XmlLoggingConfiguration.ParseLoggerElement(NLogXmlElement loggerElement, IList`1 rulesCollection)
+   at NLog.Config.XmlLoggingConfiguration.ParseRulesElement(NLogXmlElement rulesElement, IList`1 rulesCollection)
+   at NLog.Config.XmlLoggingConfiguration.ParseNLogElement(NLogXmlElement nlogElement, String filePath, Boolean autoReloadDefault)
+   at NLog.Config.XmlLoggingConfiguration.Initialize(XmlReader reader, String fileName, Boolean ignoreErrors)
+   --- End of inner exception stack trace ---
+2018-05-18 19:13:27.9751 Warn Failed loading config from E:\BiHuProjects\JobManagerByQuartz_.NetCore_1.0\JobManagerByQuartz\JobManager_Web\NLog.config. Invalid XML?
+2018-05-18 19:16:01.5210 Error Parsing configuration from E:\BiHuProjects\JobManagerByQuartz_.NetCore_1.0\JobManagerByQuartz\JobManager_Web\NLog.config failed. Exception: NLog.NLogConfigurationException: Exception when parsing E:\BiHuProjects\JobManagerByQuartz_.NetCore_1.0\JobManagerByQuartz\JobManager_Web\NLog.config.  ---> NLog.NLogConfigurationException: Target allfile not found.
+   at NLog.Config.XmlLoggingConfiguration.ParseLoggerElement(NLogXmlElement loggerElement, IList`1 rulesCollection)
+   at NLog.Config.XmlLoggingConfiguration.ParseRulesElement(NLogXmlElement rulesElement, IList`1 rulesCollection)
+   at NLog.Config.XmlLoggingConfiguration.ParseNLogElement(NLogXmlElement nlogElement, String filePath, Boolean autoReloadDefault)
+   at NLog.Config.XmlLoggingConfiguration.Initialize(XmlReader reader, String fileName, Boolean ignoreErrors)
+   --- End of inner exception stack trace ---
+2018-05-18 19:16:01.5490 Warn Failed loading config from E:\BiHuProjects\JobManagerByQuartz_.NetCore_1.0\JobManagerByQuartz\JobManager_Web\NLog.config. Invalid XML?
+2018-05-18 19:17:40.6019 Error Error parsing layout requestmethodtype will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'requestmethodtype'
+   at NLog.Config.Factory`2.CreateInstance(String name)
+   at NLog.Layouts.LayoutParser.GetLayoutRenderer(ConfigurationItemFactory configurationItemFactory, String name)
+2018-05-18 19:17:44.9229 Error Error when sending. Exception: System.IO.IOException: Error: ConnectionRefused
+2018-05-18 19:21:43.3148 Error Error when sending. Exception: System.IO.IOException: Error: ConnectionRefused
+2018-05-21 10:32:09.0432 Warn Exception in layout renderer. Exception: System.NullReferenceException: Object reference not set to an instance of an object.
+   at NLogLayoutRendererExtension.CallParametersLayoutRenderer.Append(StringBuilder builder, LogEventInfo logEvent) in E:\BiHuProjects\JobManagerByQuartz_.NetCore_1.0\JobManagerByQuartz\NLogLayoutRendererExtension\CallParametersLayoutRenderer.cs:line 14
+   at NLog.LayoutRenderers.LayoutRenderer.RenderAppendBuilder(LogEventInfo logEvent, StringBuilder builder)
+2018-05-21 10:32:10.3153 Warn Exception in layout renderer. Exception: System.NullReferenceException: Object reference not set to an instance of an object.
+   at NLogLayoutRendererExtension.CallReusltLayoutRenderer.Append(StringBuilder builder, LogEventInfo logEvent) in E:\BiHuProjects\JobManagerByQuartz_.NetCore_1.0\JobManagerByQuartz\NLogLayoutRendererExtension\CallReusltLayoutRenderer.cs:line 14
+   at NLog.LayoutRenderers.LayoutRenderer.RenderAppendBuilder(LogEventInfo logEvent, StringBuilder builder)
+2018-05-21 10:32:11.1623 Warn Exception in layout renderer. Exception: System.NullReferenceException: Object reference not set to an instance of an object.
+   at NLogLayoutRendererExtension.CallParametersLayoutRenderer.Append(StringBuilder builder, LogEventInfo logEvent) in E:\BiHuProjects\JobManagerByQuartz_.NetCore_1.0\JobManagerByQuartz\NLogLayoutRendererExtension\CallParametersLayoutRenderer.cs:line 14
+   at NLog.LayoutRenderers.LayoutRenderer.RenderAppendBuilder(LogEventInfo logEvent, StringBuilder builder)
+2018-05-21 10:32:12.0116 Warn Exception in layout renderer. Exception: System.NullReferenceException: Object reference not set to an instance of an object.
+   at NLogLayoutRendererExtension.CallReusltLayoutRenderer.Append(StringBuilder builder, LogEventInfo logEvent) in E:\BiHuProjects\JobManagerByQuartz_.NetCore_1.0\JobManagerByQuartz\NLogLayoutRendererExtension\CallReusltLayoutRenderer.cs:line 14
+   at NLog.LayoutRenderers.LayoutRenderer.RenderAppendBuilder(LogEventInfo logEvent, StringBuilder builder)
+2018-05-21 10:32:33.1169 Error Error when sending. Exception: System.IO.IOException: Error: TimedOut
+2018-05-21 11:59:42.8338 Error Error when sending. Exception: System.IO.IOException: Error: TimedOut
+2018-05-21 13:41:57.4499 Error Error when sending. Exception: System.IO.IOException: Error: TimedOut
+2018-06-15 14:44:09.3186 Error Error when sending. Exception: System.IO.IOException: Error: TimedOut
+2018-06-15 15:21:11.7344 Error Error when sending. Exception: System.IO.IOException: Error: TimedOut
+2018-06-15 15:21:55.9549 Error Error when sending. Exception: System.IO.IOException: Error: TimedOut

@@ -5,11 +5,24 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Elmah.Io.AspNetCore" Version="3.5.54" />
     <PackageReference Include="Microsoft.AspNetCore.All" Version="2.0.5" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.0.2" />
+    <PackageReference Include="NLog.Extensions.Logging" Version="1.0.1" />
+    <PackageReference Include="NLog.Web.AspNetCore" Version="4.5.3" />
   </ItemGroup>
 
   <ItemGroup>
     <DotNetCliToolReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Tools" Version="2.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\JobManager_Core\JobManager_Core.csproj" />
+    <ProjectReference Include="..\JobManager_Infrastructure\JobManager_Infrastructure.csproj" />
+    <ProjectReference Include="..\JobManager_Model\JobManager_Model.csproj" />
+    <ProjectReference Include="..\JobManager_RepositoryImplements\JobManager_RepositoryImplements.csproj" />
+    <ProjectReference Include="..\JobManager_RepositoryInterface\JobManager_RepositoryInterface.csproj" />
+    <ProjectReference Include="..\NLogLayoutRendererExtension\NLogLayoutRendererExtension.csproj" />
   </ItemGroup>
 
 </Project>
